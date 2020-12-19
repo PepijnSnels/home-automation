@@ -1,1 +1,1 @@
-# home-automation
+# Home Automation Project
